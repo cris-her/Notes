@@ -90,10 +90,3 @@
 
 ### Inglés
 2. [Curso de Escritura en Inglés](Curso%20de%20Escritura%20en%20Inglés/README.md#curso-de-escritura-en-inglés)
-
-## Quiero seguir aprendiendo
-
-[Platzi](https://platzi.com/r/MineiToshio/) cuenta con más de 210 cursos y 45 carreras.
-
-Suscríbete hoy y ¡nunca pares de aprender!  
-[Me quiero suscribir](https://platzi.com/r/MineiToshio/)
